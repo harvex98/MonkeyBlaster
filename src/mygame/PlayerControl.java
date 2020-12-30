@@ -10,10 +10,6 @@ import com.jme3.renderer.RenderManager;
 import com.jme3.renderer.ViewPort;
 import com.jme3.scene.control.AbstractControl;
 
-/**
- *
- * @author Marti
- */
 public class PlayerControl extends AbstractControl {
     private int screenWidth, screenHeight;
     
