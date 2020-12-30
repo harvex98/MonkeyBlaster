@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package mygame;
 
 import com.jme3.math.Vector3f;
@@ -10,10 +5,6 @@ import com.jme3.renderer.RenderManager;
 import com.jme3.renderer.ViewPort;
 import com.jme3.scene.control.AbstractControl;
 
-/**
- *
- * @author Marti
- */
 public class BulletControl extends AbstractControl {
     private int screenWidth, screenHeight;
     
